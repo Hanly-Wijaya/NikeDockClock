@@ -4,7 +4,7 @@ Dock Clock designed for macOS, themed off of the Apple Watch Nike Face.
 # Compatibility
 This app is only compatible with macOS Catalina and later (10.15 - 11.0). Do not request for compatibility with Mojave and earlier as the app will not work properly and the code will never be properly compatible.
 # How to install 'NikeDockClock'
-Download the latest [latest release of NikeDockClock](https://github.com/Hanly-Wijaya/NikeDockClock/releases/tag/1.0-alpha-v1) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with a window of 24-hour time. You can close the window and the time will be ticking in the dock. The clock automatically changes. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
+Download the [latest release of NikeDockClock](https://github.com/Hanly-Wijaya/NikeDockClock/releases/tag/1.0-alpha-v1) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with a window of 24-hour time. You can close the window and the time will be ticking in the dock. The clock automatically changes. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
 # Signing Issues
 If you get an message after attempting to open the app and you are not able to open the app, use the command in the Terminal app below without ) or (.
 
