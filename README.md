@@ -1,8 +1,9 @@
+**THIS APP IS NO LONGER UPDATED. THIS APP WAS TESTED FOR MACOS MONTEREY AND SHOULD WORK BUT MAY NOT WORK IN MACOS 13, ETC. THANK YOU.**
 <img src="clockicon.png" width="256"> <img src="Screen Shot 2021-04-04 at 4.32.46 pm.png" width="256">
 # What is NikeDockClock?
 Dock Clock designed for macOS, themed off of the Apple Watch Nike Face.
 # Compatibility
-This app is only compatible with macOS Catalina and later (10.15 - 11.0). Do not request for compatibility with Mojave and earlier as the app will not work properly and the code will never be properly compatible.
+This app is only compatible with macOS Catalina and later (10.15 - 12.0). Do not request for compatibility with Mojave and earlier as the app will not work properly and the code will never be properly compatible.
 # How to install 'NikeDockClock'
 Download the [latest release of NikeDockClock](https://github.com/Hanly-Wijaya/NikeDockClock/releases/tag/1.0-alpha-v1) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with a window of 24-hour time. You can close the window and the time will be ticking in the dock. The clock automatically changes. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
 # Signing Issues
@@ -14,9 +15,9 @@ You should be able to open the apps after the command. If it gives you a prompt 
 # Responsibility Info
 I am not responsible for the damage of you're Mac if it is either corrupted or damaged. No warranty is INCLUDED. If anything happens, fault goes on YOU.
 # Support Info
-If you need support, please [contact me](mailto:m4halgita@yahoo.com) or make a issue on this repository.
+If you need support, please [contact me](mailto:m4halgita@yahoo.com) or make a issue on this repository. (I can help with existing issues but cannot update the app)
 # Extra info for Developers
-If you would like a uncompiled copy of this app, please [contact me](mailto:m4halgita@yahoo.com).
+SOURCE CODE UNAVAILABLE.
 # Requests
 If you would like to add a request, either send it as an issue or [contact me](mailto:m4halgita@yahoo.com).
 # Changelogs
